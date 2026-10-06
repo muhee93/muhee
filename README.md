@@ -1,0 +1,1 @@
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/792ee579-c824-46a9-8bff-f9a466f6641f.jpeg?v=1791307530)](https://www.boot.dev/certificates/792ee579-c824-46a9-8bff-f9a466f6641f)
